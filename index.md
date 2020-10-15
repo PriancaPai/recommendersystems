@@ -1,5 +1,5 @@
-- [Graph Convolutional Neural Networks for Web-Scale Recommender Systems. KDD 2018. paper](https://arxiv.org/abs/1806.01973) Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.
-- [Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks](https://arxiv.org/abs/1704.06803) Federico Monti, Michael M. Bronstein, Xavier Bresson.
+- [Graph Convolutional Neural Networks for Web-Scale Recommender Systems. KDD 2018. paper Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.](https://arxiv.org/abs/1806.01973) 
+- [Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks Federico Monti, Michael M. Bronstein, Xavier Bresson.](https://arxiv.org/abs/1704.06803) 
 - [Graph Convolutional Matrix Completion. 2017. paper Rianne van den Berg, Thomas N. Kipf, Max Welling](https://arxiv.org/abs/1706.02263)
 
 - [STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems. IJCAI 2019.](https://arxiv.org/pdf/1905.13129.pdf)
