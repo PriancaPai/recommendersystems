@@ -2,8 +2,8 @@
 - [Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks Federico Monti, Michael M. Bronstein, Xavier Bresson.](https://arxiv.org/abs/1704.06803) 
 - [Graph Convolutional Matrix Completion. 2017. paper Rianne van den Berg, Thomas N. Kipf, Max Welling](https://arxiv.org/abs/1706.02263)
 
-- [STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems. IJCAI 2019.](https://arxiv.org/pdf/1905.13129.pdf)
-  Jiani Zhang, Xingjian Shi, Shenglin Zhao, Irwin King.
+- [STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems. IJCAI 2019 Jiani Zhang, Xingjian Shi, Shenglin Zhao, Irwin King.](https://arxiv.org/pdf/1905.13129.pdf)
+ 
 - [Binarized Collaborative Filtering with Distilling Graph Convolutional Networks. IJCAI 2019. paper Haoyu Wang, Defu Lian, Yong Ge.](https://arxiv.org/pdf/1906.01829.pdf)
 
 - [Graph Contextualized Self-Attention Network for Session-based Recommendation. IJCAI 2019. paper Chengfeng Xu, Pengpeng Zhao, Yanchi Liu, Victor S. Sheng, Jiajie Xu, Fuzhen Zhuang, Junhua Fang, Xiaofang Zhou.](https://www.ijcai.org/Proceedings/2019/0547.pdf)
