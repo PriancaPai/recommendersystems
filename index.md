@@ -1,4 +1,4 @@
-- Graph Convolutional Neural Networks for Web-Scale Recommender Systems. KDD 2018. paper
+- Graph Convolutional Neural Networks for Web-Scale Recommender Systems. KDD 2018. paper(https://arxiv.org/abs/1806.01973)
 - Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.
 - Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks. NIPS 2017. paper
 - Federico Monti, Michael M. Bronstein, Xavier Bresson.
