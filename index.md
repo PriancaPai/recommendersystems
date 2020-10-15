@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+Graph Convolutional Neural Networks for Web-Scale Recommender Systems. KDD 2018. paper
 
-You can use the [editor on GitHub](https://github.com/PriancaPai/recommendersystems/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks. NIPS 2017. paper
 
-### Markdown
+Federico Monti, Michael M. Bronstein, Xavier Bresson.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Graph Convolutional Matrix Completion. 2017. paper
 
-```markdown
-Syntax highlighted code block
+Rianne van den Berg, Thomas N. Kipf, Max Welling.
 
-# Header 1
-## Header 2
-### Header 3
+STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems. IJCAI 2019. paper
 
-- Bulleted
-- List
+Jiani Zhang, Xingjian Shi, Shenglin Zhao, Irwin King.
 
-1. Numbered
-2. List
+Binarized Collaborative Filtering with Distilling Graph Convolutional Networks. IJCAI 2019. paper
 
-**Bold** and _Italic_ and `Code` text
+Haoyu Wang, Defu Lian, Yong Ge.
 
-[Link](url) and ![Image](src)
-```
+Graph Contextualized Self-Attention Network for Session-based Recommendation. IJCAI 2019. paper
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Chengfeng Xu, Pengpeng Zhao, Yanchi Liu, Victor S. Sheng, Jiajie Xu, Fuzhen Zhuang, Junhua Fang, Xiaofang Zhou.
 
-### Jekyll Themes
+Session-based Recommendation with Graph Neural Networks. AAAI 2019. paper
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PriancaPai/recommendersystems/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Shu Wu, Yuyuan Tang, Yanqiao Zhu, Liang Wang, Xing Xie, Tieniu Tan.
 
-### Support or Contact
+Geometric Hawkes Processes with Graph Convolutional Recurrent Neural Networks. AAAI 2019. paper
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Jin Shang, Mingxuan Sun.
+
+Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems. KDD 2019. paper
+
+Hongwei Wang, Fuzheng Zhang, Mengdi Zhang, Jure Leskovec, Miao Zhao, Wenjie Li, Zhongyuan Wang.
+
+Exact-K Recommendation via Maximal Clique Optimization. KDD 2019. paper
+
+Yu Gong, Yu Zhu, Lu Duan, Qingwen Liu, Ziyu Guan, Fei Sun, Wenwu Ou, Kenny Q. Zhu.
+
+KGAT: Knowledge Graph Attention Network for Recommendation. KDD 2019. paper
+
+Xiang Wang, Xiangnan He, Yixin Cao, Meng Liu, Tat-Seng Chua.
+
+Knowledge Graph Convolutional Networks for Recommender Systems. WWW 2019. paper
+
+Hongwei Wang, Miao Zhao, Xing Xie, Wenjie Li, Minyi Guo.
+
+Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems. WWW 2019. paper
+
+Qitian Wu, Hengrui Zhang, Xiaofeng Gao, Peng He, Paul Weng, Han Gao, Guihai Chen.
+
+Graph Neural Networks for Social Recommendation. WWW 2019. paper
+
+Wenqi Fan, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, Dawei Yin.
+
+Memory Augmented Graph Neural Networks for Sequential Recommendation. AAAI 2020. paper
+
+Chen Ma, Liheng Ma, Yingxue Zhang, Jianing Sun, Xue Liu, Mark Coates.
+
+Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach. AAAI 2020. paper
+
+Lei Chen, Le Wu, Richang Hong, Kun Zhang, Meng Wang.
+
+Inductive Matrix Completion Based on Graph Neural Networks. ICLR 2020. paper
+
+Muhan Zhang, Yixin Chen.
+
